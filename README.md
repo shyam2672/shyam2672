@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shyam2672
-- 👀 I’m interested in ... coding,web development, advanced dsa and sports.
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... coding,web development, dsa and sports.
+- 🌱 I’m currently learning web development and basics of ML.
+- 💞️ I’m looking to collaborate on some projects.
+- 📫 You can mail me at shyamprajapati2672@gmail.com
 
 <!---
 shyam2672/shyam2672 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
