@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shyam2672
-- 👀 I’m interested in ... coding,web development, dsa and sports.
-- 🌱 I’m currently learning web development and basics of ML.
+- 👀 I’m interested in ... coding, technology, cp and sports.
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 You can mail me at shyamprajapati2672@gmail.com
 
